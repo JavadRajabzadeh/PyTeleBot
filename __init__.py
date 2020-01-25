@@ -1,0 +1,1 @@
+from PyFarsi.PyTeleBot import *
